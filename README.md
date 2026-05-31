@@ -14,11 +14,12 @@ Bu proje, **BLM308 Veri Madenciliği** dersi kapsamında, abonelik tabanlı tele
 ---
 
 ## 🚀 Proje Yapısı ve Dosyalar
-Projenin tüm kaynak dosyaları ana dizinde yer almaktadır:
+Projenin tüm kaynak dosyaları ana dizinde erişilebilir şekilde sunulmuştur:
 - `datamining_finalproject.pdf`: Projenin \LaTeX\ ile yazılmış akademik final raporu.
 - `rapor.tex`: Raporun \LaTeX\ kaynak kodları.
-- `churn_pipeline.ipynb`: Tüm veri ön işleme ve modelleme adımlarını içeren Jupyter Notebook dosyası.
-- `Telco_customer_churn.csv`: IBM Telco Customer Churn ana veri seti.
+- `churn_pipeline.ipynb`: Tüm veri dönüştürme, ön işleme ve modelleme adımlarını içeren Jupyter Notebook dosyası.
+- `Telco_customer_churn.xlsx`: IBM Telco Customer Churn ham Excel veri seti.
+- `Telco_customer_churn.csv`: Excel'den Python ortamına aktarılarak dönüştürülen ana veri seti.
 - `churn_dagilim.png` & `monthly_charges_kde.png`: Keşifsel Veri Analizi (EDA) grafikleri.
 - `confusion_matrix.png`: En başarılı model olan Random Forest'a ait karmaşıklık matrisi.
 
@@ -40,7 +41,7 @@ Eğitim kümesindeki sınıf dengesizliği problemi **SMOTE** algoritmasıyla $1
 ---
 
 ## 🎥 Proje Demo Videosu
-Projenin kod yürütme, veri ön işleme adımları ve metrik analizini içeren ekran kaydı  videosuna aşağıdaki bağlantıdan ulaşabilirsiniz:
+Projenin kod yürütme, veri ön işleme adımları ve metrik analizini içeren ekran kaydı anlatım videosuna aşağıdaki bağlantıdan ulaşabilirsiniz:
 👉 [BLM308 Veri Madenciliği Proje Demosu - Ekran Kaydı](BURAYA_VİDEONUN_LİNKİNİ_YAPIŞTIR)
 
 ---
