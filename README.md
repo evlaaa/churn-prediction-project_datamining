@@ -42,7 +42,7 @@ Eğitim kümesindeki sınıf dengesizliği problemi **SMOTE** algoritmasıyla $1
 
 ## 🎥 Proje Demo Videosu
 Projenin kod yürütme, veri ön işleme adımları ve metrik analizini içeren ekran kaydı anlatım videosuna aşağıdaki bağlantıdan ulaşabilirsiniz:
-👉 [BLM308 Veri Madenciliği Proje Demosu - Ekran Kaydı](BURAYA_VİDEONUN_LİNKİNİ_YAPIŞTIR)
+👉 [BLM308 Veri Madenciliği Proje Demosu - Ekran Kaydı](https://drive.google.com/file/d/1dQ_uFwsxvuPhi0Xj0evMJKrySr6ApXeI/view?usp=sharing)
 
 ---
 
