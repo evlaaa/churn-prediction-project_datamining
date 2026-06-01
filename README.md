@@ -15,7 +15,7 @@ Bu proje, **BLM308 Veri Madenciliği** dersi kapsamında, abonelik tabanlı tele
 
 ## 🚀 Proje Yapısı ve Dosyalar
 Projenin tüm kaynak dosyaları ana dizinde erişilebilir şekilde sunulmuştur:
-- `datamining_finalproject.pdf`: Projenin \LaTeX\ ile yazılmış akademik final raporu.
+- `rapor_churn_prediction.pdf`: Projenin \LaTeX\ ile yazılmış akademik final raporu.
 - `rapor.tex`: Raporun \LaTeX\ kaynak kodları.
 - `churn_pipeline.ipynb`: Tüm veri dönüştürme, ön işleme ve modelleme adımlarını içeren Jupyter Notebook dosyası.
 - `Telco_customer_churn.xlsx`: IBM Telco Customer Churn ham Excel veri seti.
